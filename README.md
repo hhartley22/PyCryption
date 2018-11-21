@@ -1,2 +1,2 @@
 # PyCryption
-Python based encryption program utilising the PYCA Cryptography package
+Python3 based encryption program utilising the PYCA Cryptography package
