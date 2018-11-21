@@ -100,7 +100,7 @@ def decryption():
     f.close()
     info = inputData.encode()
 
-    """Encrypting Data"""
+    """Decrypting Data"""
     output = cipher_suite.decrypt(info)
 
     """Data Storage"""
