@@ -1,2 +1,2 @@
 # PyCryption
-Basic command line based Python3 encryption program utilising the PYCA Cryptography package
+Basic command line based encryption program utilising the PYCA Cryptography package
